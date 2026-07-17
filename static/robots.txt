@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cachexl.github.io/sitemap.xml

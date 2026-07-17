@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cachexl/cachexl.github.io/main/src/lib/assets/cover.jpg" alt="cover" width="100%">
+  <img src="https://raw.githubusercontent.com/cachexl/cachexl.github.io/main/src/lib/assets/cover.jpg" alt="cover" width="400">
 </p>
 
 <h1 align="center">@cachexl</h1>
